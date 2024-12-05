@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### Leap Year Calculator
+# Leap Year Calculator
 
 - This project calculates whether a given year is a leap year or not. It uses basic conditional statements to check the divisibility rules for leap years, providing a simple and accurate result.
 
